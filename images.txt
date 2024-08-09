@@ -7,4 +7,5 @@
 
 #--platform=linux/arm64 python:3.9.19-slim-bullseye
 # --platform=linux/arm64 ubuntu:24.10
---platform=linux/arm64 seleniarm/standalone-chromium:124.0-chromedriver-124.0
+#--platform=linux/arm64 seleniarm/standalone-chromium:124.0-chromedriver-124.0
+--platform=linux/arm64 seleniarm/standalone-chromium:123.0-chromedriver-123.0-20240327
