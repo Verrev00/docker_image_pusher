@@ -13,4 +13,5 @@
 # --platform=linux/arm64  selenium/standalone-firefox:126.0-geckodriver-0.34.0-20240521
 #  --platform=linux/arm64  python:3.12.0-slim
 # --platform=linux/arm64 python:3.11.0-slim
---platform=linux/arm64 kibana:7.17.21
+# --platform=linux/arm64 kibana:7.17.21
+ --platform=linux/amd64 python:3.10
