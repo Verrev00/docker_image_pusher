@@ -15,4 +15,5 @@
 # --platform=linux/arm64 python:3.11.0-slim
 # --platform=linux/arm64 kibana:7.17.21
 # --platform=linux/amd64 python:3.10
---platform=linux/amd64 python:3.10.16-slim
+# --platform=linux/amd64 python:3.10.16-slim
+--platform=linux/amd64 milvusdb/milvus:v2.5.0-beta
