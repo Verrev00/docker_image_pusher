@@ -21,5 +21,6 @@
 # --platform=linux/arm64 python:3.10-slim-bullseye
 # --platform=linux/arm64 python:3.10-slim
 # --platform=linux/arm64 python:3.10-bullseye
- --platform=linux/arm64 python:3.11.10-slim
- --platform=linux/arm64 python:3.11.10-slim-bullseye
+# --platform=linux/arm64 python:3.11.10-slim
+# --platform=linux/arm64 python:3.11.10-slim-bullseye
+--platform=linux/arm64 python:3.11.10-bullseye
