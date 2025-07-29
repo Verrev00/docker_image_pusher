@@ -27,4 +27,5 @@
 # --platform=linux/arm64 milvusdb/milvus:v2.5.2-20250102-4533fc8f-arm64
 # --platform=linux/arm64 milvusdb/milvus:v2.5.0
 # --platform=linux/amd64 milvusdb/milvus:v2.5.0
---platform=linux/amd64 node:slim
+# --platform=linux/amd64 node:slim
+--platform=linux/amd64 node:latest
