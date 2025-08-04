@@ -28,4 +28,5 @@
 # --platform=linux/arm64 milvusdb/milvus:v2.5.0
 # --platform=linux/amd64 milvusdb/milvus:v2.5.0
 # --platform=linux/amd64 node:slim
---platform=linux/amd64 node:latest
+# --platform=linux/amd64 node:latest
+ --platform=linux/amd64 maven:3.6.3
